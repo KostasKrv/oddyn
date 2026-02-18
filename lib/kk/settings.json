@@ -1,0 +1,19 @@
+{
+    "warn_after_x_draws_occured": 23,
+    "snooze_until_draw": null,
+    "read_until_draw": 1,
+    "last_sms_suggestion_sent": null,
+    "last_push_suggestion_sent": null,
+    "toggle_modes": [
+        "",
+        "semi-expanded",
+        "expanded"
+    ],
+    "current_toggle_mode": "",
+    "first_rounds_to_watch": 7,
+    "warn_on_all_draws": true,
+    "active_hours": "11,22",
+    "draw_clean_limit": 2,
+    "settings_visibility": false,
+    "last_suggestion_sent": "1145709_2024-11-29 17:55:00"
+}
